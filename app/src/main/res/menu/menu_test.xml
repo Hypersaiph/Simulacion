@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ks"
+        android:title="Prueba de Kolmogorov-Smirnov" />
+    <item
+        android:id="@+id/independencia"
+        android:title="Prueba de Independencia" />
+    <item
+        android:id="@+id/frecuencias"
+        android:title="Prueba de Frecuencias" />
+    <item
+        android:id="@+id/series"
+        android:title="Prueba de Series" />
+</menu>
